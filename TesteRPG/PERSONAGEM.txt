@@ -1,0 +1,8 @@
+Nome: Carol;
+Raça: Felix;
+Carisma: kkkkkk;
+Força: orgornornvr;
+Destreza: aaaaaaaa;
+Sabedoria: ttttttt;
+História:  --- Jogador --- 
+Quantidade de vidas: 4;
